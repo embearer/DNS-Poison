@@ -93,9 +93,7 @@ If it answers with `1.2.3.4`, the attack succeeded.
 
 ## License
 
-_Choose an appropriate open-source license or leave it as a simple disclaimer. Example below:_
-
-    This project is licensed under the MIT License - see the LICENSE file for details.
+_This project is licensed under the MIT License - see the LICENSE file for details._
 
 ---
 
