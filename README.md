@@ -1,4 +1,3 @@
-```markdown
 # DNS Cache Poisoning PoC
 
 A **multi-threaded** proof-of-concept (PoC) for DNS cache poisoning attacks.  
@@ -101,4 +100,3 @@ _Choose an appropriate open-source license or leave it as a simple disclaimer. E
 ---
 
 **Disclaimer**: Use responsibly and legally. We are not liable for any misuse or damages. If you’re testing in a production environment, ensure you have explicit written permission.
-```
